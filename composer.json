@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kouosl\\portal-urun\\": ""
+            "kouosl\\urun\\": ""
         }
     }
 }
