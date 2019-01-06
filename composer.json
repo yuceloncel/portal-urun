@@ -1,5 +1,5 @@
 {
-    "name": "kouosl/urun",
+    "name": "kouosl/protal-urun",
     "description": "Sample module for KOUOSL PORTAL",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "urun", "module", "modules"],
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kouosl\\urun\\": ""
+            "kouosl\\portal-urun\\": ""
         }
     }
 }
