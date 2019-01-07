@@ -1,2 +1,1 @@
-# portal-urun
-urun model for portal
+# urun
